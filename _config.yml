@@ -1,8 +1,23 @@
-logo: "/images/logo.JPG?raw=true" # your photo (or logo) here
+lang: en-US
+title:  ROBOTICS RESEARCH # Rama Krishna Reddy Dyavayour name (or website title) here
+sub_title: "Your new default Jekyll theme"
+email: rkdyava@gmail.com
+#logo: "/images/DSC00072.JPG?raw=true" your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Robotics | Motion Planning | Motion Control | Kinematics& Dynamics Simulation | Mechatronics |Control System | AlMl |ROS
   <br><br>
-  Second description 
+  Second description
   <br><br>
-  <a href="https://www.linkedin.com/in/rama-krishna-reddy-dyava/">View My LinkedIn Profile</a> 
-theme: jekyll-theme-tactile
+  <a href="https://www.linkedin.com/in/rama-krishna-reddy-dyava/">View My LinkedIn Profile</a>
+author:
+  name: Rama Krishna
+  #twitter: Towlette_Pettetucci
+  #picture: /images/DSC00072.JPG
+#twitter_username: Towlette_Pettetucci
+linkedin_username: rkdyava
+github_username: rkdyava
+logo: "/images/DSC00072.JPG?raw=true" # your photo (or logo) here
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+search: true
+search_full_content: true
