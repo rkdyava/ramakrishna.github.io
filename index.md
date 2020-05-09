@@ -1,7 +1,7 @@
 <!-- ## Portfolio -->
-<img src="images/DSC00072.JPG?raw=true"/>
+<!--<img src="images/DSC00072.JPG?raw=true"/> -->
 ---
-## About Me
+## About US
 
 ### [CV](/pdf/CV.pdf)
 ### [Interests](/pdf/BACKGROUND EXPERIENCE ON ROBOTICS RESEARCH.pdf)
