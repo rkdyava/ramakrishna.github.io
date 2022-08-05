@@ -3,6 +3,8 @@
 ---
 ## About ME
 
+My name is Dyava Rama Krishna Reddy and I am a roboticist. I did my Master in Automation and Robotics Engineering at Technical university of Munich (Germany) and University of Siena (Italy) and I had finished my bachelor degree in Electrical and Electronic Engineering. Mostly, my research is driven into medical and surgical robotic system. I have been working as mechantronics, Algorithms develoeprs and Systems Control Architrecture. 
+
 ### [CV](/pdf/CV.pdf)
 ### [Interests](/pdf/BACKGROUND EXPERIENCE ON ROBOTICS RESEARCH.pdf)
 ---
