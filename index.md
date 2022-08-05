@@ -1,18 +1,19 @@
 <!-- ## Portfolio -->
 <!--<img src="images/DSC00072.JPG?raw=true"/> -->
 ---
-## About US
+## About ME
 
 ### [CV](/pdf/CV.pdf)
 ### [Interests](/pdf/BACKGROUND EXPERIENCE ON ROBOTICS RESEARCH.pdf)
 ---
 ## Surgical/Medical Robot Research
-### [Siasun 7DOFmanipulatros motion planning](docs/posts.md)
+---
+### [Serial7DOF manipulatros motion planning in Simulation](docs/posts.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #####  [*Link here for Siasun 7DOF Motion Planning Video*](https://www.youtube.com/watch?v=ZAeLUoNyjy4&list=PLhz2kQ7e3CxE8vfuvlm1JlOEaV5DrDM6x&index=4&t=0s)
 ---
-## Name1
-- [ML: Prediction of medication dosage and pills for patient  based on the medical test results ](https://www.youtube.com/watch?v=ZAeLUoNyjy4&list=PLhz2kQ7e3CxE8vfuvlm1JlOEaV5DrDM6x&index=4&t=0s)
+## Academic Projects
+- [Machine Learning: Prediction of medication dosage and pills for patient  based on the medical test results ](https://www.youtube.com/watch?v=ZAeLUoNyjy4&list=PLhz2kQ7e3CxE8vfuvlm1JlOEaV5DrDM6x&index=4&t=0s)
 - [Percutaneous Coronary Intervention Research and Vibrotactile feedback for Robotic Catheter insersion ](pdf/Dyava_PCI_presentation.pdf)
 ### [Project 2 Title](http://example.com/)
 ---
